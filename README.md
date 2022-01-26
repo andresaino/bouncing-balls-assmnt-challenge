@@ -6,6 +6,7 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncin
 Some ideas from:
 https://github.com/2alin/2alin.github.io/blob/master/learn/mozilla/improve-bouncing-balls/main-finished.js
 
+# App Description
 A game that consists of randomly coloured/sized/speed balls moving across browser wdw.
 when two balls collide the balls will change colour.  There are also two EvilCircles that
 can move in all directions when controlled with assigned control keys.  Since there are
